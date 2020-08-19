@@ -59,7 +59,7 @@
     - [[#adding-new-keywords][Adding new keywords]]
     - [[#customize-leaf-keywords][Customize leaf keywords]]
   - [[#migration][Migration]]
-    - [[#leaf-v10-to-v20][leaf v3.0 to v4.0]]
+    - [[#leaf-v30-to-v40][leaf v3.0 to v4.0]]
     - [[#leaf-v20-to-v30][leaf v2.0 to v3.0]]
     - [[#leaf-v10-to-v20][leaf v1.0 to v2.0]]
   - [[#license][License]]
